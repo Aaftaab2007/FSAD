@@ -1,0 +1,20 @@
+import java.util.Scanner;
+public class second {
+
+	public static void main(String[] args) {
+		 Scanner x = new Scanner(System.in);
+	        System.out.print("Enter a character: ");
+	        char ch = x.next().charAt(0);
+
+	        boolean a = Character.isLetter(ch);
+	        boolean b = Character.isDigit(ch);
+	        if(Character.isLetter(ch))
+	        {
+	        	System.out.print("It is a CHARACTER: " +a);
+	        }
+	        else if(Character.isDigit(ch))
+	        {
+	        	System.out.print("It is a number: " +b);
+	        }
+	}
+}

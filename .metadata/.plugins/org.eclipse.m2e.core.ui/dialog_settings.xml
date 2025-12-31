@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Aaftaab Rabbani Khan\eclipse-workspace\hibernate_crud_example\src\main\java\com\klu\app\MainApp.java"/>
+			<item value="C:\Users\Aaftaab Rabbani Khan\eclipse-workspace\hibernate-create\src\main\java\com\klu\MainApp.java"/>
+			<item value="C:\Users\Aaftaab Rabbani Khan\eclipse-workspace\hibernate-create\src\main\resources\hibernate.cfg.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.klu"/>
+			<item value="HiberStudent"/>
+			<item value="com.fsads3"/>
+			<item value="com.jdbc"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="HiberStudent"/>
+			<item value="com.klu"/>
+			<item value="HibernateEmpDeptApp"/>
+			<item value="hibernate_crud_example"/>
+			<item value="xyz"/>
+			<item value="hibernate-create"/>
+			<item value="111"/>
+			<item value="jdbc"/>
+			<item value="JDBCcrud2"/>
+			<item value="JDBCcrud"/>
+			<item value="JDBC-create"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

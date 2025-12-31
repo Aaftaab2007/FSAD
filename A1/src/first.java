@@ -1,0 +1,9 @@
+import java.util.Scanner;
+public class first {
+	public static void main(String[] args) {
+	Scanner x=new Scanner(System.in);
+	int a=x.nextInt();
+	System.out.println("Your age is "+a);
+	}
+
+}

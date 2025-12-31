@@ -1,0 +1,29 @@
+import java.util.Scanner;
+public class fourth {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Enter an integer: ");
+        int intValue = scanner.nextInt();
+
+        System.out.print("Enter a double: ");
+        double doubleValue = scanner.nextDouble();
+
+        System.out.print("Enter a character: ");
+        char charValue = scanner.next().charAt(0);
+
+        System.out.print("Enter a boolean (true/false): ");
+        boolean boolValue = scanner.nextBoolean();
+
+        System.out.println("\n Here's what Java detected:");
+        System.out.println("Integer value: " + intValue + " (Type: int)");
+        System.out.println("Double value: " + doubleValue + " (Type: double)");
+        System.out.println("Character value: " + charValue + " (Type: char)");
+        System.out.println("Boolean value: " + boolValue + " (Type: boolean)");
+        
+        scanner.close();
+
+	}
+
+}

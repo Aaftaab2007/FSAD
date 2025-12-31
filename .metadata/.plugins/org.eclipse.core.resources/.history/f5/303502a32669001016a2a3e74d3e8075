@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class ByteConversion {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String input = scanner.nextLine(); 
+
+        byte binaryValue = (byte) Integer.parseInt(input, 2);
+
+        byte decimalValue = Byte.parseByte(input);
+
+        System.out.println(binaryValue);
+        System.out.println(decimalValue);
+    }
+}
