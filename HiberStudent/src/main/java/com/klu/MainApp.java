@@ -5,7 +5,7 @@ import java.util.Scanner;
 import org.hibernate.*; 
 import org.hibernate.query.Query; 
  
-import jakarta.persistence.criteria.*; 
+import javax.persistence.criteria.*; 
  
 public class MainApp { 
     static Scanner sc = new Scanner(System.in); 
